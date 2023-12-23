@@ -13,7 +13,7 @@ class MyHeader extends HTMLElement {
               <a class="text-white-50 p-2 ms-3"
                     href="https://www.facebook.com/BIET-Jhansi-Innovation-and-Incubation-Cell-116551726553214/"><i
                         class="fab fa-facebook-f"></i></a>
-                <a class="text-white-50 p-2 ms-3" href="https://www.youtube.com/watch?v=vmAfQXCDPlQ"><i
+                <a class="text-white-50 p-2 ms-3" href="http://www.youtube.com/@iicbietjhs"><i
                         class="fab fa-youtube"></i></a>
                 <a class="text-white-50 p-2 ms-3"
                     href="https://www.linkedin.com/company/innovation-and-incubation-cell-biet-jhansi/mycompany/"><i
